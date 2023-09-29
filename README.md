@@ -26,8 +26,9 @@
 ### How to Run:
 1. Ensure you have R and the above dependencies installed.
 2. Set the working directory to the root of this package.
-3. Execute `main_script.R`. It will coordinate the running of all other scripts in the specified order.
-4. You might need to set `install` to `TRUE` in `pacman::p_load` if the necessary packages aren't already installed.
+3. OPen the R project.
+4. Execute `main_script.R`. It will coordinate the running of all other scripts in the specified order.
+5. You might need to set `install` to `TRUE` in `pacman::p_load` if the necessary packages aren't already installed.
 
 ### Data Statement:
 The data for this project is composed of two main datasets: Colombia's connectivity and Colombia's infrastructure. The connectivity dataset is sourced from Ookla and the Humanitarian Data Exchange, while the infrastructure dataset is sourced from Open Street Maps and the Humanitarian Data Exchange.
