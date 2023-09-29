@@ -1,14 +1,16 @@
-library(here)
+# Dependencies
+
+# PLEASE NOTE:
+#   YOU CAN SET INSTALL = FALSE in the 4 scripts below to disable package installation
+
+packages <- c("here")
+
+pacman::p_load (packages,
+                character.only = TRUE,
+                install = TRUE) # Change to TRUE to install the necessary packages
 
 # setting path of dataset
-path <- here("data", "state_database.csv")
-
-#Loading dataset
-df <- read.csv(path)
-
-df$sum <- df$college * 2
-
-write.csv(df, path)
+datapath <- here("data")
 
 
 # Project Name: Data Analysis Project
@@ -18,36 +20,18 @@ write.csv(df, path)
 # Date: 25-09-2023
 # Author: Jonas Weinert
 
-# Step 1: Load necessary libraries
-install.packages ("tidyr","dplyr","labelled","stringi","Hmisc","stringr")
-packages <- c("tidyr",
-              "dplyr",
-              "labelled",
-              "stringi",
-              "Hmisc",
-              "stringr")
 
-pacman::p_load (packages,
-                character.only = TRUE,
-                install = FALSE) # Change to TRUE to install the necessary packages
+# Tidying data
+source(here("scripts", "Template-R-01-tidying-secondary.R"))
 
+# Cleaning
+source(here("scripts", "Template-R-02-cleaning-secondary.R"))
 
-# Step 2: Source external scripts
+# Outcome construction
+source(here("scripts", "Template-R-03-construction-secondary.R"))
 
-# Script for reading data
-source(here("scripts", "01_data.R"))
-
-# Script for data cleaning
-source(here("scripts", "02_cleaning.R"))
-
-# Script for generating summaries
-source(here("scripts", "03_construction.R"))
-
-# Script for data analysis
-source(here("scripts", "04_analysis.R"))
-
-# Script for data visualization
-source(here("scripts", "05_visualization.R"))
+# data analysis & visualisation
+source(here("scripts", "Template-R-04-analysis-secondary.R"))
 
 # Step 3: Print completion message
 print("Data analysis complete")

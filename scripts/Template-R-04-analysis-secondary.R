@@ -22,7 +22,7 @@ packages <- c("tidyr",
 
 pacman::p_load(packages,
                character.only = TRUE,
-               install = FALSE) # Change to TRUE to install the necessary packages
+               install = TRUE) # Change to TRUE to install the necessary packages
 
 # Set path of our data 
 
@@ -190,9 +190,9 @@ ggplot(municipality_database, aes(x=college, y=avg_d_mbps_winsorized)) +
 #You can use dplyr functions like filter, group_by, and summarize to process the data before plotting.
 
 data_processed <- municipality_database %>%
-  group_by(trimester) %>%  # Replace 'college' with other predictors as needed
-  summarize(mean_avg_d_mbps = mean(avg_d_mbps_winsorized),
-            mean_avg_u_mbps = mean(avg_u_mbps_winsorized))
+  group_by(trimester) %>%
+  dplyr::summarize(mean_avg_d_mbps = mean(avg_d_mbps_winsorized, na.rm = TRUE),
+            mean_avg_u_mbps = mean(avg_u_mbps_winsorized, na.rm = TRUE))
 
 ggplot(data_processed, aes(x=trimester, y=mean_avg_d_mbps)) +  # Change y to mean_avg_u_mbps for upload speeds
   geom_bar(stat="identity") +
