@@ -1,0 +1,137 @@
+\documentclass{article}
+\usepackage{hyperref}
+\begin{document}
+\title{Regression Summaries}
+\maketitle
+
+Call:
+lm(formula = avg\_d\_mbps\_winsorized ~ college + clinic + university + 
+    school + hospital, data = municipality\_database)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-10.402  -4.189  -1.965   1.657  52.394 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  8.732841   0.179646  48.611   <2e-16 ***
+college      0.096236   0.067451   1.427   0.1538    
+clinic      -0.139506   0.085864  -1.625   0.1044    
+university   0.328383   0.132829   2.472   0.0135 *  
+school      -0.006551   0.013362  -0.490   0.6240    
+hospital     0.034167   0.014376   2.377   0.0176 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 7.066 on 2037 degrees of freedom
+Multiple R-squared:  0.02491,	Adjusted R-squared:  0.02251 
+F-statistic: 10.41 on 5 and 2037 DF,  p-value: 7.1e-10
+
+\newpage
+
+Call:
+lm(formula = avg\_u\_mbps\_winsorized ~ college + clinic + university + 
+    school + hospital, data = municipality\_database)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-5.624 -3.118 -1.775  0.736 44.713 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  5.68111    0.15269  37.206   <2e-16 ***
+college     -0.02626    0.05733  -0.458    0.647    
+clinic       0.01682    0.07298   0.231    0.818    
+university   0.12550    0.11290   1.112    0.266    
+school      -0.01448    0.01136  -1.275    0.203    
+hospital     0.01646    0.01222   1.347    0.178    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 6.006 on 2037 degrees of freedom
+Multiple R-squared:  0.003887,	Adjusted R-squared:  0.001442 
+F-statistic:  1.59 on 5 and 2037 DF,  p-value: 0.1596
+
+\newpage
+
+Call:
+lm(formula = avg\_d\_mbps\_change ~ college + clinic + university + 
+    school + hospital, data = municipality\_database)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+  -9.75   -3.70   -3.18   -2.29 2208.84 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)
+(Intercept)  3.73822    2.60972   1.432    0.152
+college     -0.24670    0.96294  -0.256    0.798
+clinic       0.33645    1.22482   0.275    0.784
+university   0.03192    1.89497   0.017    0.987
+school      -0.05825    0.19194  -0.303    0.762
+hospital    -0.02066    0.20462  -0.101    0.920
+
+Residual standard error: 71.1 on 972 degrees of freedom
+  (1065 observations deleted due to missingness)
+Multiple R-squared:  0.000194,	Adjusted R-squared:  -0.004949 
+F-statistic: 0.03772 on 5 and 972 DF,  p-value: 0.9992
+
+\newpage
+
+Call:
+lm(formula = avg\_u\_mbps\_change ~ college + clinic + university + 
+    school + hospital, data = municipality\_database)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+ -2.803  -1.434  -1.003  -0.274 121.145 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1.335185   0.184708   7.229 9.87e-13 ***
+college     -0.075990   0.068154  -1.115    0.265    
+clinic       0.092993   0.086689   1.073    0.284    
+university   0.007374   0.134120   0.055    0.956    
+school      -0.016066   0.013585  -1.183    0.237    
+hospital    -0.004062   0.014482  -0.281    0.779    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 5.032 on 972 degrees of freedom
+  (1065 observations deleted due to missingness)
+Multiple R-squared:  0.003301,	Adjusted R-squared:  -0.001826 
+F-statistic: 0.6439 on 5 and 972 DF,  p-value: 0.6663
+
+\newpage
+    Estimate           Std. Error         t value            Pr(>|t|)      
+ Min.   :-0.139506   Min.   :0.01254   Min.   :-1.19365   Min.   :0.00000  
+ 1st Qu.: 0.003628   1st Qu.:0.02853   1st Qu.: 0.06595   1st Qu.:0.02105  
+ Median : 0.065201   Median :0.09111   Median : 1.66049   Median :0.10286  
+ Mean   : 1.507595   Mean   :0.12682   Mean   : 4.65140   Mean   :0.18867  
+ 3rd Qu.: 0.270347   3rd Qu.:0.16246   3rd Qu.: 2.50480   3rd Qu.:0.20983  
+ Max.   : 8.732841   Max.   :0.37224   Max.   :23.46039   Max.   :0.68706  
+\newpage
+    Estimate           Std. Error          t value           Pr(>|t|)      
+ Min.   :-0.026262   Min.   :0.004117   Min.   :-1.0643   Min.   :0.00000  
+ 1st Qu.:-0.006743   1st Qu.:0.022664   1st Qu.:-0.3410   1st Qu.:0.04311  
+ Median : 0.016644   Median :0.063751   Median : 0.7911   Median :0.22978  
+ Mean   : 0.966526   Mean   :0.099551   Mean   : 3.2938   Mean   :0.31441  
+ 3rd Qu.: 0.098329   3rd Qu.:0.088344   3rd Qu.: 3.3405   3rd Qu.:0.52058  
+ Max.   : 5.681109   Max.   :0.360177   Max.   :15.7731   Max.   :0.82851  
+\newpage
+    Estimate           Std. Error         t value            Pr(>|t|)     
+ Min.   :-0.246699   Min.   :0.02175   Min.   :-1.15615   Min.   :0.1804  
+ 1st Qu.:-0.048850   1st Qu.:0.08247   1st Qu.:-1.03520   1st Qu.:0.2269  
+ Median : 0.005634   Median :0.20532   Median :-0.38546   Median :0.2678  
+ Mean   : 0.630166   Mean   :0.59089   Mean   :-0.07042   Mean   :0.3561  
+ 3rd Qu.: 0.260321   3rd Qu.:0.26351   3rd Qu.: 0.96545   3rd Qu.:0.3289  
+ Max.   : 3.738219   Max.   :2.78849   Max.   : 1.34059   Max.   :0.8583  
+\newpage
+    Estimate           Std. Error          t value           Pr(>|t|)       
+ Min.   :-0.075990   Min.   :0.002998   Min.   :-3.4886   Min.   :0.000000  
+ 1st Qu.:-0.013065   1st Qu.:0.009502   1st Qu.:-2.5668   1st Qu.:0.000773  
+ Median : 0.001656   Median :0.025557   Median :-0.6046   Median :0.002307  
+ Mean   : 0.223239   Mean   :0.054502   Mean   : 0.2761   Mean   :0.177489  
+ 3rd Qu.: 0.071588   3rd Qu.:0.045253   3rd Qu.: 2.4143   3rd Qu.:0.132570  
+ Max.   : 1.335185   Max.   :0.216930   Max.   : 6.1549   Max.   :0.884071  
+\end{document}

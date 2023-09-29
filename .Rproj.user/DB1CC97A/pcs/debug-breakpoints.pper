@@ -124,14 +124,14 @@
             {
                 "id": 49,
                 "path": "~/Documents/rrf-training-2023/scripts/Template-R-03-construction-secondary.R",
-                "line_number": 119,
+                "line_number": 121,
                 "function_steps": "",
                 "function_name": "toplevel",
                 "state": 1,
                 "editor_state": 1,
-                "editor_line_number": 119,
+                "editor_line_number": 121,
                 "is_pending_debug_completion": false,
-                "needs_updated_steps": false,
+                "needs_updated_steps": true,
                 "type": 1,
                 "is_package_breakpoint": false,
                 "package_name": ""
@@ -139,14 +139,14 @@
             {
                 "id": 51,
                 "path": "~/Documents/rrf-training-2023/scripts/Template-R-03-construction-secondary.R",
-                "line_number": 135,
+                "line_number": 137,
                 "function_steps": "",
                 "function_name": "toplevel",
                 "state": 1,
                 "editor_state": 1,
-                "editor_line_number": 135,
+                "editor_line_number": 137,
                 "is_pending_debug_completion": false,
-                "needs_updated_steps": false,
+                "needs_updated_steps": true,
                 "type": 1,
                 "is_package_breakpoint": false,
                 "package_name": ""
@@ -161,7 +161,7 @@
                 "editor_state": 1,
                 "editor_line_number": 173,
                 "is_pending_debug_completion": false,
-                "needs_updated_steps": false,
+                "needs_updated_steps": true,
                 "type": 1,
                 "is_package_breakpoint": false,
                 "package_name": ""
@@ -176,7 +176,7 @@
                 "editor_state": 1,
                 "editor_line_number": 119,
                 "is_pending_debug_completion": false,
-                "needs_updated_steps": false,
+                "needs_updated_steps": true,
                 "type": 1,
                 "is_package_breakpoint": false,
                 "package_name": ""
@@ -191,7 +191,7 @@
                 "editor_state": 1,
                 "editor_line_number": 192,
                 "is_pending_debug_completion": false,
-                "needs_updated_steps": false,
+                "needs_updated_steps": true,
                 "type": 1,
                 "is_package_breakpoint": false,
                 "package_name": ""

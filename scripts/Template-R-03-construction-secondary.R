@@ -7,6 +7,8 @@ pacman::p_load(packages, character.only = TRUE, install = TRUE)
 
 # Set path of our data 
 tidy_folder <- here("data")
+output <- here("outputs")
+
 
 
 # read data 
