@@ -1,0 +1,921 @@
+"ADM1_ES","ADM2_ES","college","clinic","university","school","hospital"
+"Amazonas","La Pedrera",0,0,0,2,1
+"Amazonas","Leticia",1,1,2,27,2
+"Amazonas","Puerto Narino",0,0,0,1,1
+"Amazonas","Puerto Santander",0,0,0,0,2
+"Antioquia","Abejorral",0,0,0,5,2
+"Antioquia","Abriaqui",0,0,0,0,1
+"Antioquia","Alejandria",0,0,0,6,1
+"Antioquia","Amaga",0,0,0,1,1
+"Antioquia","Amalfi",0,1,2,23,1
+"Antioquia","Andes",0,0,0,1,2
+"Antioquia","Angelopolis",0,0,0,1,2
+"Antioquia","Angostura",0,0,0,2,1
+"Antioquia","Anori",0,0,0,9,0
+"Antioquia","Anza",0,0,0,1,1
+"Antioquia","Apartado",1,0,5,35,13
+"Antioquia","Arboletes",0,0,0,24,1
+"Antioquia","Argelia",0,0,0,36,1
+"Antioquia","Armenia",0,0,0,1,1
+"Antioquia","Barbosa",0,0,0,5,1
+"Antioquia","Bello",1,3,3,35,8
+"Antioquia","Belmira",0,0,0,2,1
+"Antioquia","Betania",0,0,0,0,1
+"Antioquia","Betulia",0,0,0,3,2
+"Antioquia","Briceno",0,0,0,9,1
+"Antioquia","Buritica",0,0,0,2,1
+"Antioquia","Caceres",0,2,0,26,5
+"Antioquia","Caicedo",0,0,0,3,1
+"Antioquia","Caldas",1,0,0,1,2
+"Antioquia","Campamento",0,0,0,3,2
+"Antioquia","Canasgordas",0,0,0,3,2
+"Antioquia","Caracoli",0,0,0,2,1
+"Antioquia","Caramanta",1,0,0,1,1
+"Antioquia","Carepa",0,0,0,1,1
+"Antioquia","Carolina",0,0,0,1,1
+"Antioquia","Caucasia",0,1,0,8,2
+"Antioquia","Chigorodo",0,0,0,13,1
+"Antioquia","Cisneros",0,0,0,0,1
+"Antioquia","Ciudad Bolivar",0,0,0,2,1
+"Antioquia","Cocorna",0,0,0,3,3
+"Antioquia","Concepcion",0,0,0,1,1
+"Antioquia","Concordia",0,0,0,1,1
+"Antioquia","Copacabana",0,0,0,14,2
+"Antioquia","Dabeiba",0,0,0,8,0
+"Antioquia","Donmatias",0,0,0,7,1
+"Antioquia","Ebejico",0,0,0,2,1
+"Antioquia","El Bagre",0,1,0,11,1
+"Antioquia","El Carmen de Viboral",1,1,2,18,1
+"Antioquia","El Santuario",0,0,0,8,1
+"Antioquia","Entrerrios",2,0,0,3,1
+"Antioquia","Envigado",5,0,3,37,4
+"Antioquia","Fredonia",0,0,0,0,1
+"Antioquia","Frontino",0,0,0,1,2
+"Antioquia","Giraldo",0,0,0,1,1
+"Antioquia","Girardota",0,0,0,4,1
+"Antioquia","Gomez Plata",1,0,0,3,1
+"Antioquia","Granada",0,0,0,5,1
+"Antioquia","Guadalupe",0,0,0,3,2
+"Antioquia","Guarne",1,0,0,6,2
+"Antioquia","Guatape",0,0,0,3,2
+"Antioquia","Heliconia",0,0,0,1,1
+"Antioquia","Hispania",0,0,0,3,1
+"Antioquia","Itagui",4,2,0,18,8
+"Antioquia","Ituango",0,0,0,16,2
+"Antioquia","Jardin",0,1,0,3,1
+"Antioquia","Jerico",0,0,0,6,0
+"Antioquia","La Ceja",0,1,0,6,1
+"Antioquia","La Estrella",1,1,0,2,3
+"Antioquia","La Pintada",0,0,0,2,1
+"Antioquia","La Union",0,0,0,2,1
+"Antioquia","Liborina",0,0,1,2,1
+"Antioquia","Maceo",0,0,0,3,1
+"Antioquia","Marinilla",0,0,0,5,1
+"Antioquia","Medellin",60,102,51,321,100
+"Antioquia","Montebello",0,0,0,2,2
+"Antioquia","Murindo",0,0,0,0,1
+"Antioquia","Mutata",0,0,0,2,1
+"Antioquia","Narino",0,0,0,49,1
+"Antioquia","Nechi",0,0,0,16,3
+"Antioquia","Necocli",0,0,0,19,3
+"Antioquia","Olaya",0,0,0,3,1
+"Antioquia","Penol",0,0,0,3,1
+"Antioquia","Peque",0,1,0,2,1
+"Antioquia","Pueblorrico",0,0,0,0,1
+"Antioquia","Puerto Berrio",2,0,1,9,1
+"Antioquia","Puerto Nare",0,0,0,0,1
+"Antioquia","Puerto Triunfo",0,0,0,0,1
+"Antioquia","Remedios",1,0,0,4,1
+"Antioquia","Retiro",0,0,0,5,1
+"Antioquia","Rionegro",0,1,2,25,5
+"Antioquia","Sabanalarga",0,0,0,0,1
+"Antioquia","Sabaneta",0,1,2,4,2
+"Antioquia","Salgar",1,1,0,5,1
+"Antioquia","San Andres de Cuerquia",0,0,0,28,2
+"Antioquia","San Carlos",0,0,0,22,1
+"Antioquia","San Francisco",0,0,0,1,1
+"Antioquia","San Jeronimo",0,0,0,2,1
+"Antioquia","San Jose de la Montana",0,0,0,4,1
+"Antioquia","San Juan de Uraba",0,0,0,21,1
+"Antioquia","San Luis",0,0,0,6,2
+"Antioquia","San Pedro de Uraba",1,0,0,36,1
+"Antioquia","San Pedro de los Milagros",0,0,0,1,2
+"Antioquia","San Rafael",0,0,0,0,1
+"Antioquia","San Roque",0,0,0,4,1
+"Antioquia","San Vicente Ferrer",0,0,0,1,1
+"Antioquia","Santa Barbara",0,0,0,2,2
+"Antioquia","Santa Fe de Antioquia",0,0,0,2,1
+"Antioquia","Santa Rosa de Osos",1,0,1,19,5
+"Antioquia","Santo Domingo",1,0,0,0,1
+"Antioquia","Sonson",0,0,0,7,1
+"Antioquia","Sopetran",0,0,0,2,2
+"Antioquia","Tamesis",0,0,0,3,1
+"Antioquia","Taraza",0,0,0,10,2
+"Antioquia","Tarso",1,0,0,0,2
+"Antioquia","Titiribi",0,0,0,0,2
+"Antioquia","Toledo",0,0,0,2,1
+"Antioquia","Turbo",0,1,3,59,4
+"Antioquia","Uramita",0,0,0,2,1
+"Antioquia","Urrao",0,0,0,7,2
+"Antioquia","Valdivia",0,0,0,2,2
+"Antioquia","Valparaiso",0,0,0,2,2
+"Antioquia","Vegachi",0,0,0,11,1
+"Antioquia","Venecia",0,0,0,2,2
+"Antioquia","Vigia del Fuerte",1,0,0,1,1
+"Antioquia","Yali",0,0,0,5,1
+"Antioquia","Yarumal",0,0,0,15,1
+"Antioquia","Yolombo",0,0,0,1,1
+"Antioquia","Yondo",0,0,0,4,1
+"Antioquia","Zaragoza",1,1,0,5,1
+"Arauca","Arauca",4,1,0,11,1
+"Arauca","Arauquita",0,0,0,19,1
+"Arauca","Cravo Norte",0,0,0,2,1
+"Arauca","Fortul",0,0,0,1,0
+"Arauca","Puerto Rondon",0,0,0,1,0
+"Arauca","Saravena",7,2,0,5,1
+"Arauca","Tame",3,1,0,1,0
+"Archipielago de San Andres, Providencia y Santa Catalina","Providencia",0,0,0,2,1
+"Archipielago de San Andres, Providencia y Santa Catalina","San Andres",0,1,2,6,2
+"Atlantico","Baranoa",0,1,1,3,1
+"Atlantico","Barranquilla",21,33,16,202,67
+"Atlantico","Campo de la Cruz",0,0,0,6,0
+"Atlantico","Galapa",1,0,0,5,1
+"Atlantico","Juan de Acosta",1,0,0,0,0
+"Atlantico","Malambo",2,1,0,16,2
+"Atlantico","Manati",0,0,0,10,2
+"Atlantico","Ponedera",3,0,0,0,0
+"Atlantico","Puerto Colombia",0,1,8,16,1
+"Atlantico","Sabanagrande",0,0,0,1,1
+"Atlantico","Sabanalarga",5,1,0,2,2
+"Atlantico","Soledad",3,5,0,44,13
+"Atlantico","Suan",2,0,0,1,1
+"Atlantico","Tubara",0,0,0,3,1
+"Bogota, D.C.","Bogota, D.C.",117,258,162,1187,155
+"Bolivar","Altos del Rosario",0,0,0,2,1
+"Bolivar","Arenal",0,0,0,1,0
+"Bolivar","Arjona",0,0,0,1,0
+"Bolivar","Cantagallo",0,0,0,2,0
+"Bolivar","Cartagena de Indias",11,23,18,92,19
+"Bolivar","El Carmen de Bolivar",1,1,1,15,1
+"Bolivar","Magangue",1,1,2,3,2
+"Bolivar","Mahates",0,1,0,1,0
+"Bolivar","Margarita",0,0,2,0,0
+"Bolivar","Mompos",0,0,0,12,1
+"Bolivar","Morales",0,0,0,7,1
+"Bolivar","Rio Viejo",2,0,0,7,4
+"Bolivar","San Estanislao",0,0,0,1,0
+"Bolivar","San Fernando",0,0,0,1,0
+"Bolivar","San Jacinto",0,0,0,4,1
+"Bolivar","San Juan Nepomuceno",0,0,0,1,0
+"Bolivar","San Pablo",0,0,0,10,0
+"Bolivar","Santa Rosa del Sur",0,0,0,42,1
+"Bolivar","Simiti",0,0,0,13,0
+"Bolivar","Tiquisio",0,0,0,2,1
+"Bolivar","Turbaco",1,0,2,3,2
+"Boyaca","Almeida",0,0,0,5,1
+"Boyaca","Aquitania",0,0,0,19,0
+"Boyaca","Arcabuco",0,0,0,9,2
+"Boyaca","Belen",0,0,0,20,4
+"Boyaca","Berbeo",0,0,0,1,0
+"Boyaca","Beteitiva",0,0,0,5,0
+"Boyaca","Boavita",0,0,0,27,4
+"Boyaca","Boyaca",1,0,0,3,0
+"Boyaca","Buenavista",0,0,0,20,0
+"Boyaca","Busbanza",0,0,0,1,0
+"Boyaca","Caldas",1,0,0,4,0
+"Boyaca","Campohermoso",0,0,0,15,1
+"Boyaca","Cerinza",0,0,0,6,1
+"Boyaca","Chinavita",0,0,0,7,2
+"Boyaca","Chiquinquira",2,2,3,11,3
+"Boyaca","Chiquiza",0,0,0,5,1
+"Boyaca","Chiscas",0,0,0,3,0
+"Boyaca","Chita",0,0,0,13,1
+"Boyaca","Chitaraque",0,0,0,4,0
+"Boyaca","Chivata",1,0,0,14,2
+"Boyaca","Chivor",0,0,0,2,0
+"Boyaca","Cienega",0,0,0,7,0
+"Boyaca","Combita",0,0,0,13,0
+"Boyaca","Coper",0,0,0,2,0
+"Boyaca","Corrales",0,0,0,2,0
+"Boyaca","Covarachia",0,0,0,21,3
+"Boyaca","Cubara",0,0,0,22,1
+"Boyaca","Cucaita",0,0,0,13,0
+"Boyaca","Cuitiva",0,0,0,4,0
+"Boyaca","Duitama",3,3,4,45,6
+"Boyaca","El Cocuy",0,0,0,5,1
+"Boyaca","El Espino",0,0,0,0,1
+"Boyaca","Firavitoba",0,0,0,3,0
+"Boyaca","Floresta",0,0,0,18,1
+"Boyaca","Gachantiva",0,0,0,2,1
+"Boyaca","Gameza",0,0,0,8,1
+"Boyaca","Garagoa",0,0,0,6,2
+"Boyaca","Guacamayas",0,0,0,8,1
+"Boyaca","Guateque",1,0,0,4,0
+"Boyaca","Guayata",0,0,0,16,0
+"Boyaca","Guican de la Sierra",0,1,0,7,1
+"Boyaca","Iza",0,0,0,3,0
+"Boyaca","Jenesano",0,0,0,7,1
+"Boyaca","Jerico",0,0,0,1,0
+"Boyaca","La Capilla",0,0,0,7,1
+"Boyaca","La Uvita",0,0,0,4,1
+"Boyaca","La Victoria",0,0,0,0,1
+"Boyaca","Macanal",0,0,0,11,0
+"Boyaca","Maripi",7,0,0,11,3
+"Boyaca","Miraflores",0,0,0,18,1
+"Boyaca","Mongua",0,0,0,1,0
+"Boyaca","Mongui",0,0,0,3,1
+"Boyaca","Moniquira",0,0,0,16,1
+"Boyaca","Motavita",0,0,0,7,0
+"Boyaca","Muzo",0,0,0,10,1
+"Boyaca","Nobsa",0,0,0,3,0
+"Boyaca","Nuevo Colon",0,0,0,2,0
+"Boyaca","Oicata",0,0,0,4,0
+"Boyaca","Otanche",0,0,0,14,0
+"Boyaca","Pachavita",0,0,0,2,0
+"Boyaca","Paez",0,0,0,14,2
+"Boyaca","Paipa",0,0,0,16,2
+"Boyaca","Pajarito",0,1,0,4,0
+"Boyaca","Panqueba",0,0,0,2,1
+"Boyaca","Pauna",0,0,0,29,0
+"Boyaca","Paya",0,0,0,8,2
+"Boyaca","Paz de Rio",1,0,1,3,1
+"Boyaca","Pesca",0,0,0,9,0
+"Boyaca","Puerto Boyaca",1,1,0,38,4
+"Boyaca","Quipama",0,0,0,9,1
+"Boyaca","Ramiriqui",0,0,0,22,1
+"Boyaca","Raquira",0,0,0,22,0
+"Boyaca","Rondon",0,0,0,1,0
+"Boyaca","Saboya",0,0,0,9,0
+"Boyaca","Sachica",1,1,0,17,0
+"Boyaca","Samaca",2,0,0,13,1
+"Boyaca","San Eduardo",0,0,0,1,0
+"Boyaca","San Jose de Pare",0,0,0,10,1
+"Boyaca","San Luis de Gaceno",0,0,1,12,1
+"Boyaca","San Mateo",0,0,0,25,0
+"Boyaca","San Miguel de Sema",0,0,0,10,1
+"Boyaca","San Pablo de Borbur",0,0,0,16,0
+"Boyaca","Santa Maria",0,0,0,3,0
+"Boyaca","Santa Rosa de Viterbo",0,0,0,10,1
+"Boyaca","Santa Sofia",0,0,0,2,1
+"Boyaca","Santana",0,0,0,4,1
+"Boyaca","Sativanorte",0,0,0,19,1
+"Boyaca","Sativasur",0,0,0,4,0
+"Boyaca","Siachoque",4,0,0,2,1
+"Boyaca","Soata",2,0,0,14,0
+"Boyaca","Socha",0,0,1,19,1
+"Boyaca","Socota",0,0,0,25,3
+"Boyaca","Sogamoso",0,1,2,22,6
+"Boyaca","Somondoco",0,0,0,4,1
+"Boyaca","Sora",0,1,0,1,0
+"Boyaca","Soraca",0,0,0,2,1
+"Boyaca","Sotaquira",1,0,0,7,0
+"Boyaca","Sutamarchan",0,0,0,10,1
+"Boyaca","Sutatenza",0,0,0,1,0
+"Boyaca","Tasco",0,0,0,9,0
+"Boyaca","Tenza",0,0,0,1,0
+"Boyaca","Tibana",0,0,0,10,0
+"Boyaca","Tibasosa",0,0,0,6,0
+"Boyaca","Tinjaca",1,0,0,2,0
+"Boyaca","Tipacoque",0,0,0,8,0
+"Boyaca","Toca",0,0,0,11,1
+"Boyaca","Togui",0,0,0,6,1
+"Boyaca","Topaga",0,0,0,2,0
+"Boyaca","Tota",0,1,0,2,0
+"Boyaca","Tunja",5,2,9,32,16
+"Boyaca","Tunungua",0,0,0,1,0
+"Boyaca","Turmeque",0,0,0,5,1
+"Boyaca","Tuta",0,0,0,17,1
+"Boyaca","Tutaza",0,0,0,2,0
+"Boyaca","Umbita",0,0,0,14,2
+"Boyaca","Ventaquemada",1,0,0,8,1
+"Boyaca","Villa de Leyva",1,0,0,4,1
+"Boyaca","Viracacha",0,0,0,1,0
+"Caldas","Aguadas",0,1,0,3,1
+"Caldas","Anserma",0,0,0,0,1
+"Caldas","Aranzazu",0,0,0,2,0
+"Caldas","Belalcazar",0,0,0,2,1
+"Caldas","Chinchina",0,1,0,6,3
+"Caldas","Filadelfia",0,0,0,1,1
+"Caldas","La Dorada",0,0,0,1,1
+"Caldas","Manizales",5,17,15,51,18
+"Caldas","Marmato",0,0,0,0,1
+"Caldas","Marquetalia",0,0,0,17,1
+"Caldas","Neira",0,0,0,1,0
+"Caldas","Norcasia",0,0,0,1,1
+"Caldas","Pacora",0,0,0,8,1
+"Caldas","Palestina",0,0,1,3,2
+"Caldas","Pensilvania",0,0,0,44,2
+"Caldas","Riosucio",0,0,0,1,1
+"Caldas","Risaralda",0,0,0,2,1
+"Caldas","Salamina",2,0,0,4,0
+"Caldas","Samana",0,0,0,49,2
+"Caldas","Supia",0,1,0,1,1
+"Caldas","Victoria",0,0,0,2,0
+"Caldas","Villamaria",1,0,0,18,2
+"Caldas","Viterbo",0,0,0,3,1
+"Caqueta","Albania",1,0,0,17,2
+"Caqueta","Belen de los Andaquies",0,0,0,3,1
+"Caqueta","Cartagena del Chaira",1,3,0,5,1
+"Caqueta","Curillo",0,0,0,18,1
+"Caqueta","El Doncello",0,0,0,1,0
+"Caqueta","El Paujil",0,0,0,11,2
+"Caqueta","Florencia",4,3,2,9,4
+"Caqueta","La Montanita",0,0,0,4,0
+"Caqueta","Milan",0,0,0,1,0
+"Caqueta","Morelia",1,0,0,4,0
+"Caqueta","Puerto Rico",0,1,0,4,1
+"Caqueta","San Jose del Fragua",2,1,0,5,0
+"Caqueta","San Vicente del Caguan",2,0,0,7,1
+"Caqueta","Solano",0,1,0,7,1
+"Caqueta","Solita",0,0,0,8,1
+"Caqueta","Valparaiso",0,0,0,31,0
+"Casanare","Aguazul",0,0,0,4,1
+"Casanare","Chameza",0,0,0,3,0
+"Casanare","Hato Corozal",0,0,0,2,0
+"Casanare","Mani",0,0,0,3,1
+"Casanare","Monterrey",0,0,0,0,1
+"Casanare","Nunchia",0,0,0,1,0
+"Casanare","Orocue",0,0,0,4,1
+"Casanare","Paz de Ariporo",0,0,0,2,2
+"Casanare","Pore",1,0,0,0,0
+"Casanare","Recetor",0,0,0,1,0
+"Casanare","Sabanalarga",0,0,0,3,0
+"Casanare","Sacama",0,0,0,1,0
+"Casanare","San Luis de Palenque",0,0,0,3,0
+"Casanare","Tamara",0,0,0,3,0
+"Casanare","Tauramena",8,0,0,5,1
+"Casanare","Trinidad",0,1,0,3,0
+"Casanare","Villanueva",0,2,0,13,1
+"Casanare","Yopal",6,6,8,54,13
+"Cauca","Almaguer",2,0,0,4,1
+"Cauca","Argelia",2,0,0,37,3
+"Cauca","Balboa",0,0,0,1,0
+"Cauca","Bolivar",0,1,0,9,1
+"Cauca","Buenos Aires",3,1,0,11,1
+"Cauca","Cajibio",2,3,0,32,1
+"Cauca","Caldono",3,0,0,16,1
+"Cauca","Caloto",4,0,0,3,2
+"Cauca","Corinto",0,0,0,3,0
+"Cauca","El Tambo",10,6,0,38,0
+"Cauca","Florencia",1,0,0,2,1
+"Cauca","Guachene",2,0,0,2,1
+"Cauca","Guapi",0,0,0,15,2
+"Cauca","Inza",0,3,0,9,1
+"Cauca","Jambalo",0,0,0,5,1
+"Cauca","La Sierra",0,0,0,14,1
+"Cauca","La Vega",3,2,0,45,1
+"Cauca","Lopez de Micay",0,1,0,3,1
+"Cauca","Mercaderes",1,1,0,4,1
+"Cauca","Miranda",4,4,1,19,2
+"Cauca","Morales",0,0,0,22,0
+"Cauca","Padilla",2,0,0,6,1
+"Cauca","Paez",3,1,0,5,2
+"Cauca","Patia",5,5,0,14,2
+"Cauca","Piamonte",1,1,0,12,2
+"Cauca","Piendamo - Tunia",2,0,0,12,3
+"Cauca","Popayan",4,19,15,78,9
+"Cauca","Puerto Tejada",17,2,0,9,2
+"Cauca","Purace",0,0,0,6,1
+"Cauca","Rosas",0,0,0,5,0
+"Cauca","San Sebastian",0,0,0,7,0
+"Cauca","Santa Rosa",0,0,0,7,0
+"Cauca","Santander de Quilichao",8,6,4,24,3
+"Cauca","Silvia",1,2,0,23,2
+"Cauca","Sotara - Paispamba",0,1,0,7,2
+"Cauca","Suarez",0,0,0,9,2
+"Cauca","Sucre",2,0,0,0,1
+"Cauca","Timbio",4,0,2,14,1
+"Cauca","Timbiqui",0,1,0,3,0
+"Cauca","Toribio",0,0,0,9,1
+"Cauca","Totoro",0,1,0,15,1
+"Cauca","Villa Rica",1,0,0,6,1
+"Cesar","Aguachica",3,1,1,12,4
+"Cesar","Agustin Codazzi",1,0,1,4,0
+"Cesar","Becerril",0,0,0,3,0
+"Cesar","Chiriguana",0,0,0,5,2
+"Cesar","Curumani",1,0,0,4,1
+"Cesar","El Paso",0,0,0,5,1
+"Cesar","La Gloria",0,0,0,4,0
+"Cesar","La Paz",0,0,5,2,0
+"Cesar","Manaure Balcon del Cesar",0,2,0,3,1
+"Cesar","Pailitas",0,0,0,1,0
+"Cesar","Pueblo Bello",0,0,0,0,1
+"Cesar","Rio de Oro",0,0,0,4,0
+"Cesar","San Alberto",0,0,0,1,2
+"Cesar","San Martin",0,0,0,1,0
+"Cesar","Tamalameque",0,0,0,1,0
+"Cesar","Valledupar",2,4,9,23,6
+"Choco","Acandi",2,0,0,12,2
+"Choco","Bahia Solano",0,0,0,4,1
+"Choco","Bajo Baudo",0,0,0,1,1
+"Choco","Bojaya",1,0,0,1,0
+"Choco","Carmen del Darien",0,0,0,1,0
+"Choco","Certegui",0,0,0,1,0
+"Choco","Condoto",0,0,0,1,0
+"Choco","El Canton del San Pablo",0,0,0,1,0
+"Choco","Istmina",1,0,1,4,1
+"Choco","Jurado",0,0,0,1,1
+"Choco","Nuqui",1,1,0,2,0
+"Choco","Quibdo",2,0,3,7,3
+"Choco","Rio Iro",0,0,0,3,0
+"Choco","Riosucio",0,0,0,22,0
+"Choco","Tado",0,0,0,5,1
+"Choco","Unguia",0,0,0,7,1
+"Cordoba","Ayapel",0,0,0,2,0
+"Cordoba","Cerete",0,0,0,0,2
+"Cordoba","Cienaga de Oro",0,0,1,0,0
+"Cordoba","Cotorra",0,0,0,0,1
+"Cordoba","Lorica",10,0,3,7,4
+"Cordoba","Los Cordobas",0,0,0,0,1
+"Cordoba","Momil",0,0,0,1,0
+"Cordoba","Monitos",0,0,0,1,0
+"Cordoba","Montelibano",0,0,0,14,0
+"Cordoba","Monteria",4,18,6,25,3
+"Cordoba","Puerto Libertador",0,0,0,1,0
+"Cordoba","Purisima de la Concepcion",1,0,0,0,0
+"Cordoba","Sahagun",1,0,0,8,1
+"Cordoba","San Antero",0,0,0,0,1
+"Cordoba","San Bernardo del Viento",2,0,0,3,0
+"Cordoba","San Jose de Ure",0,0,0,3,0
+"Cordoba","San Pelayo",0,0,0,3,0
+"Cordoba","Tierralta",7,0,0,17,3
+"Cordoba","Tuchin",0,0,0,0,1
+"Cordoba","Valencia",0,0,0,12,1
+"Cundinamarca","Alban",0,0,0,4,0
+"Cundinamarca","Anapoima",0,0,0,3,1
+"Cundinamarca","Anolaima",0,0,0,7,2
+"Cundinamarca","Apulo",0,1,0,0,1
+"Cundinamarca","Arbelaez",0,0,0,5,2
+"Cundinamarca","Beltran",0,0,0,3,1
+"Cundinamarca","Bojaca",0,0,0,3,1
+"Cundinamarca","Cabrera",0,0,0,1,0
+"Cundinamarca","Cachipay",0,0,0,5,0
+"Cundinamarca","Cajica",0,1,3,7,1
+"Cundinamarca","Caparrapi",0,0,0,21,0
+"Cundinamarca","Caqueza",0,0,0,1,0
+"Cundinamarca","Carmen de Carupa",1,0,0,8,2
+"Cundinamarca","Chia",2,5,4,24,3
+"Cundinamarca","Choachi",0,0,0,8,1
+"Cundinamarca","Choconta",0,0,0,2,1
+"Cundinamarca","Cogua",0,0,0,3,0
+"Cundinamarca","Cota",0,0,0,15,1
+"Cundinamarca","El Colegio",2,0,0,7,2
+"Cundinamarca","El Penon",0,0,0,3,0
+"Cundinamarca","El Rosal",1,0,0,7,0
+"Cundinamarca","Facatativa",2,0,1,20,8
+"Cundinamarca","Fomeque",0,0,0,2,3
+"Cundinamarca","Fosca",0,1,0,2,0
+"Cundinamarca","Funza",1,0,0,21,1
+"Cundinamarca","Fuquene",3,0,0,0,1
+"Cundinamarca","Fusagasuga",1,1,4,16,5
+"Cundinamarca","Gachancipa",0,0,0,1,1
+"Cundinamarca","Gacheta",0,0,0,0,1
+"Cundinamarca","Girardot",1,6,5,28,0
+"Cundinamarca","Granada",0,0,0,2,1
+"Cundinamarca","Guacheta",4,0,0,1,1
+"Cundinamarca","Guaduas",0,0,0,3,1
+"Cundinamarca","Guasca",1,0,0,6,1
+"Cundinamarca","Guataqui",0,0,0,1,0
+"Cundinamarca","Guatavita",0,0,0,4,1
+"Cundinamarca","Guayabetal",0,1,0,0,0
+"Cundinamarca","Gutierrez",0,0,0,1,0
+"Cundinamarca","Jerusalen",0,0,0,2,1
+"Cundinamarca","Junin",0,0,0,3,0
+"Cundinamarca","La Calera",1,0,0,16,1
+"Cundinamarca","La Mesa",3,2,0,7,1
+"Cundinamarca","La Palma",0,0,0,3,1
+"Cundinamarca","La Pena",0,0,0,2,0
+"Cundinamarca","La Vega",0,0,0,3,1
+"Cundinamarca","Lenguazaque",0,0,0,1,0
+"Cundinamarca","Macheta",0,0,0,2,1
+"Cundinamarca","Madrid",0,0,0,13,2
+"Cundinamarca","Manta",0,0,0,2,1
+"Cundinamarca","Medina",1,0,0,1,1
+"Cundinamarca","Mosquera",1,2,1,24,1
+"Cundinamarca","Nemocon",0,0,0,2,1
+"Cundinamarca","Pacho",1,0,0,8,2
+"Cundinamarca","Paime",0,0,0,26,0
+"Cundinamarca","Paratebueno",0,0,0,4,0
+"Cundinamarca","Pasca",0,0,0,2,0
+"Cundinamarca","Puli",0,0,0,1,0
+"Cundinamarca","Quebradanegra",0,0,0,1,0
+"Cundinamarca","Quipile",0,0,0,4,0
+"Cundinamarca","Ricaurte",0,0,0,3,0
+"Cundinamarca","San Antonio del Tequendama",1,0,0,2,2
+"Cundinamarca","San Bernardo",0,0,0,4,0
+"Cundinamarca","San Cayetano",1,0,0,0,1
+"Cundinamarca","San Francisco",0,0,0,1,0
+"Cundinamarca","San Juan de Rioseco",0,0,0,1,0
+"Cundinamarca","Sasaima",0,0,1,0,1
+"Cundinamarca","Sesquile",1,0,0,4,0
+"Cundinamarca","Sibate",1,0,0,36,2
+"Cundinamarca","Silvania",0,0,0,6,1
+"Cundinamarca","Soacha",3,2,4,69,4
+"Cundinamarca","Sopo",0,0,1,6,0
+"Cundinamarca","Subachoque",1,0,0,5,1
+"Cundinamarca","Suesca",0,0,0,1,1
+"Cundinamarca","Sutatausa",0,0,0,1,0
+"Cundinamarca","Tabio",11,0,0,1,0
+"Cundinamarca","Tausa",0,0,0,2,0
+"Cundinamarca","Tena",1,0,0,2,0
+"Cundinamarca","Tenjo",0,0,0,2,0
+"Cundinamarca","Tocaima",0,0,0,1,1
+"Cundinamarca","Tocancipa",0,0,0,9,2
+"Cundinamarca","Topaipi",0,0,0,16,0
+"Cundinamarca","Ubala",2,0,0,4,0
+"Cundinamarca","Ubaque",0,0,0,3,1
+"Cundinamarca","Une",0,0,0,1,0
+"Cundinamarca","Utica",0,1,0,0,0
+"Cundinamarca","Venecia",0,0,0,1,0
+"Cundinamarca","Vergara",1,0,0,0,0
+"Cundinamarca","Viani",0,0,0,1,0
+"Cundinamarca","Villa de San Diego de Ubate",0,0,0,6,1
+"Cundinamarca","Villapinzon",0,0,0,4,0
+"Cundinamarca","Villeta",0,0,0,5,4
+"Cundinamarca","Yacopi",0,0,0,14,0
+"Cundinamarca","Zipacon",0,0,0,3,0
+"Cundinamarca","Zipaquira",1,0,0,4,4
+"Guainia","Barrancominas",0,0,0,1,0
+"Guainia","Inirida",0,0,0,9,1
+"Guaviare","Calamar",0,0,0,11,1
+"Guaviare","El Retorno",0,0,0,10,3
+"Guaviare","Miraflores",0,0,0,3,0
+"Guaviare","San Jose del Guaviare",6,0,1,32,1
+"Huila","Acevedo",0,0,0,3,0
+"Huila","Agrado",1,0,0,2,1
+"Huila","Aipe",1,0,0,0,1
+"Huila","Algeciras",0,0,0,2,1
+"Huila","Baraya",0,0,0,9,1
+"Huila","Campoalegre",0,0,0,0,1
+"Huila","Colombia",0,0,0,2,0
+"Huila","Elias",0,0,0,1,1
+"Huila","Garzon",4,2,2,26,5
+"Huila","Gigante",1,0,0,7,0
+"Huila","Guadalupe",0,0,0,4,1
+"Huila","Iquira",0,0,0,13,0
+"Huila","Isnos",0,0,0,20,1
+"Huila","La Plata",3,1,1,21,2
+"Huila","Nataga",0,0,0,16,0
+"Huila","Neiva",25,5,10,22,6
+"Huila","Oporapa",0,0,0,5,0
+"Huila","Palermo",0,0,0,2,1
+"Huila","Palestina",1,0,0,11,2
+"Huila","Pital",0,0,0,15,1
+"Huila","Pitalito",0,3,2,35,0
+"Huila","Rivera",1,0,1,5,1
+"Huila","Saladoblanco",0,0,0,13,0
+"Huila","San Agustin",1,0,0,19,1
+"Huila","Santa Maria",0,0,0,27,0
+"Huila","Suaza",0,0,0,4,0
+"Huila","Tarqui",0,0,0,7,1
+"Huila","Tello",0,0,0,1,1
+"Huila","Teruel",0,0,0,10,0
+"Huila","Tesalia",0,0,0,0,1
+"Huila","Timana",0,0,0,9,1
+"Huila","Villavieja",0,0,0,1,1
+"Huila","Yaguara",0,0,0,1,0
+"La Guajira","Albania",0,0,0,1,0
+"La Guajira","Barrancas",0,3,0,35,1
+"La Guajira","Dibulla",1,0,0,26,1
+"La Guajira","Distraccion",0,0,0,12,0
+"La Guajira","El Molino",0,0,0,5,1
+"La Guajira","Fonseca",0,0,0,30,1
+"La Guajira","Hatonuevo",0,0,0,13,0
+"La Guajira","La Jagua del Pilar",0,0,0,2,0
+"La Guajira","Maicao",0,1,1,60,4
+"La Guajira","Manaure",0,2,0,28,3
+"La Guajira","Riohacha",4,25,3,221,29
+"La Guajira","San Juan del Cesar",0,0,0,35,2
+"La Guajira","Uribia",1,1,0,114,3
+"La Guajira","Urumita",0,0,0,9,1
+"La Guajira","Villanueva",0,0,0,15,0
+"Magdalena","Aracataca",0,0,0,1,2
+"Magdalena","Chivolo",0,0,0,0,1
+"Magdalena","Cienaga",0,1,0,20,6
+"Magdalena","Concordia",0,0,0,3,1
+"Magdalena","El Banco",0,0,0,10,3
+"Magdalena","El Reten",0,0,0,0,1
+"Magdalena","Fundacion",0,0,0,2,4
+"Magdalena","Nueva Granada",0,0,0,1,0
+"Magdalena","Plato",0,0,0,0,1
+"Magdalena","Puebloviejo",0,0,0,1,1
+"Magdalena","San Sebastian de Buenavista",0,0,0,2,0
+"Magdalena","Santa Marta",3,15,3,86,6
+"Magdalena","Sitionuevo",0,0,0,2,0
+"Magdalena","Tenerife",0,0,0,1,0
+"Meta","Acacias",4,0,1,10,1
+"Meta","Barranca de Upia",0,0,0,1,1
+"Meta","Castilla la Nueva",0,0,0,0,2
+"Meta","Cubarral",0,0,0,1,1
+"Meta","Cumaral",0,0,0,0,2
+"Meta","El Calvario",0,0,0,2,0
+"Meta","El Castillo",0,1,0,7,0
+"Meta","El Dorado",0,0,0,3,1
+"Meta","Fuente de Oro",0,0,0,6,0
+"Meta","Granada",16,0,0,5,23
+"Meta","Guamal",0,0,0,9,0
+"Meta","La Macarena",4,1,0,12,0
+"Meta","Lejanias",0,0,0,3,1
+"Meta","Mapiripan",1,0,0,2,0
+"Meta","Mesetas",1,0,0,6,1
+"Meta","Puerto Concordia",0,0,0,5,0
+"Meta","Puerto Gaitan",0,1,0,7,4
+"Meta","Puerto Lleras",1,0,0,9,1
+"Meta","Puerto Lopez",0,0,0,11,1
+"Meta","Puerto Rico",3,0,0,15,1
+"Meta","Restrepo",0,0,3,1,0
+"Meta","San Carlos de Guaroa",0,0,0,3,1
+"Meta","San Juan de Arama",0,0,0,3,1
+"Meta","San Juanito",0,0,0,4,1
+"Meta","San Martin",0,0,0,0,1
+"Meta","Uribe",5,0,0,5,1
+"Meta","Villavicencio",7,6,10,51,11
+"Meta","Vistahermosa",2,0,0,19,4
+"Narino","Alban",0,0,0,11,0
+"Narino","Aldana",0,0,0,0,2
+"Narino","Barbacoas",1,0,0,0,1
+"Narino","Belen",0,0,0,2,0
+"Narino","Buesaco",0,0,0,25,1
+"Narino","Chachagui",0,0,0,3,0
+"Narino","Colon",0,0,0,12,0
+"Narino","Consaca",0,0,0,4,1
+"Narino","Contadero",0,0,0,1,0
+"Narino","Cuaspud Carlosama",0,0,0,2,0
+"Narino","Cumbal",0,0,0,5,2
+"Narino","El Charco",0,0,0,0,1
+"Narino","El Tablon de Gomez",0,0,0,14,1
+"Narino","Guachucal",0,0,0,1,0
+"Narino","Gualmatan",0,0,0,1,1
+"Narino","Iles",0,0,0,3,0
+"Narino","Imues",0,0,0,6,0
+"Narino","Ipiales",1,3,1,20,10
+"Narino","La Cruz",0,0,0,31,1
+"Narino","La Florida",0,0,0,6,0
+"Narino","La Union",1,0,0,14,3
+"Narino","Leiva",0,0,0,6,0
+"Narino","Linares",0,0,0,1,1
+"Narino","Los Andes",0,1,0,0,1
+"Narino","Narino",0,0,0,0,1
+"Narino","Ospina",0,0,0,2,1
+"Narino","Pasto",5,5,10,46,25
+"Narino","Policarpa",0,0,0,5,0
+"Narino","Potosi",0,0,0,6,0
+"Narino","Puerres",0,0,0,9,1
+"Narino","Ricaurte",0,0,0,1,0
+"Narino","Roberto Payan",0,0,0,3,1
+"Narino","Samaniego",0,0,0,4,0
+"Narino","San Andres de Tumaco",1,0,0,4,3
+"Narino","San Bernardo",0,0,0,10,1
+"Narino","San Lorenzo",0,0,0,3,0
+"Narino","San Pablo",0,0,0,12,1
+"Narino","San Pedro de Cartago",0,0,0,6,1
+"Narino","Sandona",0,0,0,7,1
+"Narino","Santa Barbara",0,0,0,1,0
+"Narino","Taminango",0,0,0,11,0
+"Narino","Tuquerres",0,0,2,14,4
+"Norte de Santander","Abrego",0,0,0,2,0
+"Norte de Santander","Arboledas",1,0,0,2,0
+"Norte de Santander","Bochalema",0,0,0,4,0
+"Norte de Santander","Bucarasica",0,1,0,4,0
+"Norte de Santander","Cachira",0,0,0,2,1
+"Norte de Santander","Chinacota",0,0,0,17,4
+"Norte de Santander","Chitaga",0,0,0,0,1
+"Norte de Santander","Convencion",0,0,0,5,1
+"Norte de Santander","El Carmen",0,0,0,5,0
+"Norte de Santander","El Zulia",0,0,0,2,1
+"Norte de Santander","La Esperanza",0,0,0,2,0
+"Norte de Santander","La Playa",0,0,0,0,1
+"Norte de Santander","Los Patios",1,1,0,8,1
+"Norte de Santander","Lourdes",0,0,0,1,0
+"Norte de Santander","Ocana",3,3,1,16,3
+"Norte de Santander","Pamplona",1,0,2,8,5
+"Norte de Santander","Puerto Santander",0,0,0,4,2
+"Norte de Santander","Ragonvalia",0,0,0,1,0
+"Norte de Santander","Salazar",0,0,0,0,1
+"Norte de Santander","San Calixto",0,0,0,7,1
+"Norte de Santander","San Jose de Cucuta",31,65,17,130,56
+"Norte de Santander","Sardinata",3,0,0,51,1
+"Norte de Santander","Teorama",0,0,0,8,0
+"Norte de Santander","Tibu",1,0,0,27,2
+"Norte de Santander","Toledo",0,0,0,3,1
+"Norte de Santander","Villa del Rosario",2,1,1,38,1
+"Putumayo","Colon",0,0,0,0,1
+"Putumayo","Mocoa",1,0,0,25,1
+"Putumayo","Orito",0,0,0,58,0
+"Putumayo","Puerto Asis",2,0,1,13,1
+"Putumayo","Puerto Caicedo",0,0,0,5,1
+"Putumayo","Puerto Guzman",1,0,0,7,2
+"Putumayo","Puerto Leguizamo",0,0,0,24,2
+"Putumayo","San Francisco",0,0,0,4,0
+"Putumayo","San Miguel",0,0,0,4,1
+"Putumayo","Santiago",0,0,0,4,0
+"Putumayo","Sibundoy",0,1,0,4,0
+"Putumayo","Valle del Guamuez",0,0,0,31,1
+"Putumayo","Villagarzon",0,0,0,13,1
+"Quindio","Armenia",49,16,11,47,26
+"Quindio","Buenavista",0,0,0,2,1
+"Quindio","Calarca",17,2,0,19,6
+"Quindio","Circasia",4,0,0,5,1
+"Quindio","Cordoba",1,0,0,4,1
+"Quindio","Filandia",1,0,0,7,3
+"Quindio","Genova",0,0,0,5,1
+"Quindio","La Tebaida",6,0,0,0,2
+"Quindio","Montenegro",6,0,0,6,2
+"Quindio","Pijao",1,0,0,5,0
+"Quindio","Quimbaya",2,0,0,10,2
+"Quindio","Salento",1,0,0,6,2
+"Risaralda","Apia",0,0,0,2,1
+"Risaralda","Balboa",0,0,0,2,2
+"Risaralda","Belen de Umbria",1,0,0,10,1
+"Risaralda","Dosquebradas",2,1,1,20,4
+"Risaralda","Guatica",0,0,0,1,2
+"Risaralda","La Celia",0,0,0,2,1
+"Risaralda","La Virginia",0,0,0,4,1
+"Risaralda","Marsella",0,0,0,15,2
+"Risaralda","Mistrato",1,0,0,4,4
+"Risaralda","Pereira",6,17,8,70,17
+"Risaralda","Pueblo Rico",0,0,0,7,1
+"Risaralda","Santa Rosa de Cabal",0,0,0,33,3
+"Risaralda","Santuario",0,0,0,2,1
+"Santander","Aguada",0,0,0,1,0
+"Santander","Albania",0,0,0,3,1
+"Santander","Aratoca",0,0,0,21,2
+"Santander","Barbosa",0,0,1,13,2
+"Santander","Barichara",0,0,0,5,1
+"Santander","Barrancabermeja",5,0,4,22,9
+"Santander","Betulia",0,0,0,4,1
+"Santander","Bolivar",0,0,0,21,2
+"Santander","Bucaramanga",35,10,14,32,11
+"Santander","Cabrera",0,0,0,7,1
+"Santander","California",0,0,0,3,1
+"Santander","Capitanejo",0,0,0,9,1
+"Santander","Carcasi",0,0,0,32,1
+"Santander","Cerrito",0,0,0,9,1
+"Santander","Charala",0,0,0,14,1
+"Santander","Charta",0,0,0,14,1
+"Santander","Chima",0,0,0,0,1
+"Santander","Chipata",0,0,0,3,1
+"Santander","Cimitarra",1,0,0,13,2
+"Santander","Concepcion",0,0,0,23,1
+"Santander","Confines",0,0,0,1,1
+"Santander","Contratacion",0,0,0,5,1
+"Santander","Coromoro",0,0,0,3,1
+"Santander","Curiti",0,0,0,18,2
+"Santander","El Carmen de Chucuri",0,0,0,27,2
+"Santander","El Penon",0,0,0,6,0
+"Santander","El Playon",0,0,0,2,1
+"Santander","Encino",0,0,0,11,1
+"Santander","Enciso",0,0,0,2,1
+"Santander","Florian",0,0,0,24,1
+"Santander","Floridablanca",1,5,5,22,6
+"Santander","Galan",0,0,0,3,1
+"Santander","Gambita",0,0,0,3,1
+"Santander","Giron",1,0,0,2,0
+"Santander","Guaca",0,0,0,31,2
+"Santander","Guadalupe",0,0,0,21,1
+"Santander","Guapota",0,0,0,2,0
+"Santander","Guavata",1,0,0,3,1
+"Santander","Guepsa",0,0,0,5,1
+"Santander","Hato",0,0,0,11,1
+"Santander","Jesus Maria",0,0,0,5,1
+"Santander","Jordan",0,0,0,1,1
+"Santander","La Belleza",0,0,0,29,1
+"Santander","La Paz",0,0,0,2,1
+"Santander","Landazuri",0,0,0,21,2
+"Santander","Lebrija",0,0,0,2,1
+"Santander","Los Santos",0,0,0,2,1
+"Santander","Macaravita",0,0,0,14,1
+"Santander","Malaga",1,0,2,20,0
+"Santander","Matanza",0,0,0,2,1
+"Santander","Molagavita",0,0,0,15,2
+"Santander","Ocamonte",0,0,0,1,0
+"Santander","Oiba",0,0,0,14,1
+"Santander","Onzaga",0,0,0,1,0
+"Santander","Palmar",0,0,0,3,2
+"Santander","Palmas del Socorro",0,0,0,1,1
+"Santander","Paramo",0,0,0,1,1
+"Santander","Piedecuesta",1,0,1,11,3
+"Santander","Pinchote",0,0,0,2,0
+"Santander","Puente Nacional",2,0,0,37,1
+"Santander","Puerto Parra",0,0,0,3,0
+"Santander","Puerto Wilches",0,0,0,4,1
+"Santander","Rionegro",0,0,0,2,0
+"Santander","Sabana de Torres",0,0,0,3,1
+"Santander","San Andres",1,0,0,10,1
+"Santander","San Benito",0,0,0,1,1
+"Santander","San Gil",1,2,3,16,3
+"Santander","San Jose de Miranda",0,0,0,6,1
+"Santander","San Miguel",0,0,0,14,1
+"Santander","San Vicente de Chucuri",0,0,0,29,5
+"Santander","Santa Barbara",0,0,0,13,1
+"Santander","Simacota",0,0,0,3,3
+"Santander","Socorro",0,2,1,3,1
+"Santander","Suaita",0,0,0,3,2
+"Santander","Sucre",0,0,0,32,3
+"Santander","Surata",0,0,0,3,2
+"Santander","Tona",0,1,0,3,0
+"Santander","Valle de San Jose",0,0,0,12,1
+"Santander","Velez",2,1,1,19,1
+"Santander","Vetas",0,0,0,1,1
+"Santander","Villanueva",2,0,0,9,1
+"Santander","Zapatoca",0,0,0,31,1
+"Sucre","Buenavista",0,0,0,1,0
+"Sucre","Chalan",1,2,0,0,0
+"Sucre","Coloso",0,0,0,2,0
+"Sucre","Corozal",0,1,0,2,0
+"Sucre","Covenas",0,0,0,2,1
+"Sucre","La Union",1,0,0,3,1
+"Sucre","Los Palmitos",9,0,0,9,4
+"Sucre","Majagual",0,0,0,2,1
+"Sucre","Morroa",0,1,1,3,1
+"Sucre","Sampues",0,1,0,3,1
+"Sucre","San Juan de Betulia",0,0,0,1,0
+"Sucre","San Onofre",0,0,0,3,1
+"Sucre","San Pedro",0,0,0,2,1
+"Sucre","Sincelejo",31,20,13,31,9
+"Tolima","Alpujarra",0,0,0,5,0
+"Tolima","Ambalema",2,0,0,3,1
+"Tolima","Anzoategui",1,0,0,4,1
+"Tolima","Armero",0,0,1,6,1
+"Tolima","Ataco",2,0,0,28,0
+"Tolima","Cajamarca",0,0,0,3,0
+"Tolima","Carmen de Apicala",1,0,0,3,2
+"Tolima","Casabianca",0,0,0,6,0
+"Tolima","Chaparral",6,1,1,25,1
+"Tolima","Coello",0,0,0,4,1
+"Tolima","Coyaima",0,0,0,13,0
+"Tolima","Cunday",0,0,0,15,4
+"Tolima","Dolores",0,0,0,5,1
+"Tolima","Espinal",0,1,3,37,1
+"Tolima","Falan",0,0,0,12,2
+"Tolima","Flandes",0,0,0,0,1
+"Tolima","Fresno",0,0,0,4,1
+"Tolima","Guamo",1,0,0,14,0
+"Tolima","Herveo",0,0,0,5,0
+"Tolima","Honda",0,0,0,7,1
+"Tolima","Ibague",15,16,10,102,39
+"Tolima","Icononzo",0,0,0,17,2
+"Tolima","Lerida",0,0,3,9,1
+"Tolima","Libano",3,0,3,30,2
+"Tolima","Melgar",0,0,1,9,2
+"Tolima","Murillo",1,0,0,11,1
+"Tolima","Natagaima",0,0,0,8,1
+"Tolima","Ortega",0,0,0,11,1
+"Tolima","Palocabildo",0,0,0,3,1
+"Tolima","Planadas",0,0,0,9,1
+"Tolima","Prado",0,0,0,3,1
+"Tolima","Purificacion",0,0,0,8,1
+"Tolima","Rioblanco",0,0,0,16,0
+"Tolima","Roncesvalles",0,0,0,1,0
+"Tolima","Rovira",0,0,0,9,1
+"Tolima","Saldana",0,0,0,4,0
+"Tolima","San Antonio",0,0,0,10,1
+"Tolima","San Luis",0,0,0,8,1
+"Tolima","San Sebastian de Mariquita",1,0,0,13,1
+"Tolima","Santa Isabel",0,0,0,5,0
+"Tolima","Suarez",0,0,0,2,0
+"Tolima","Valle de San Juan",0,0,0,5,1
+"Tolima","Venadillo",0,0,0,6,0
+"Tolima","Villahermosa",0,0,0,5,1
+"Tolima","Villarrica",0,0,0,6,1
+"Valle del Cauca","Alcala",0,0,0,2,1
+"Valle del Cauca","Andalucia",0,0,0,2,1
+"Valle del Cauca","Ansermanuevo",1,0,0,1,1
+"Valle del Cauca","Argelia",0,0,0,0,1
+"Valle del Cauca","Bolivar",0,0,0,0,1
+"Valle del Cauca","Buenaventura",7,0,4,5,6
+"Valle del Cauca","Bugalagrande",0,0,0,1,2
+"Valle del Cauca","Caicedonia",0,0,0,5,1
+"Valle del Cauca","Cali",26,51,24,221,385
+"Valle del Cauca","Calima",0,0,0,0,1
+"Valle del Cauca","Candelaria",0,0,0,12,5
+"Valle del Cauca","Cartago",3,4,2,5,2
+"Valle del Cauca","El Aguila",0,0,0,0,1
+"Valle del Cauca","El Cerrito",1,1,0,8,0
+"Valle del Cauca","Florida",0,1,0,5,3
+"Valle del Cauca","Ginebra",1,0,0,0,0
+"Valle del Cauca","Guacari",0,0,0,1,1
+"Valle del Cauca","Guadalajara de Buga",4,1,2,10,6
+"Valle del Cauca","Jamundi",0,1,1,17,3
+"Valle del Cauca","La Cumbre",0,0,0,1,2
+"Valle del Cauca","La Union",1,0,0,1,1
+"Valle del Cauca","La Victoria",0,0,0,0,1
+"Valle del Cauca","Obando",0,0,0,0,1
+"Valle del Cauca","Palmira",2,9,10,49,8
+"Valle del Cauca","Pradera",0,0,0,1,1
+"Valle del Cauca","Riofrio",3,0,0,0,1
+"Valle del Cauca","Roldanillo",0,0,2,3,1
+"Valle del Cauca","San Pedro",0,0,0,2,1
+"Valle del Cauca","Sevilla",0,0,0,13,1
+"Valle del Cauca","Trujillo",1,0,0,2,0
+"Valle del Cauca","Tulua",0,0,4,54,34
+"Valle del Cauca","Ulloa",1,0,0,3,1
+"Valle del Cauca","Versalles",0,0,0,2,0
+"Valle del Cauca","Vijes",1,0,0,0,1
+"Valle del Cauca","Yotoco",0,0,0,4,1
+"Valle del Cauca","Yumbo",2,0,1,27,5
+"Valle del Cauca","Zarzal",0,0,1,7,2
+"Vaupes","Mitu",0,1,0,11,1
+"Vaupes","Papunahua",0,0,0,1,0
+"Vichada","Cumaribo",1,1,0,13,2
+"Vichada","Puerto Carreno",0,0,0,5,1
